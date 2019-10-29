@@ -1,2 +1,2 @@
 # packettracer_installer
-Packet Tracer installer script for Linux.
+Cisco Packet Tracer installer script for Linux.
