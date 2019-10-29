@@ -11,4 +11,3 @@ wget -O packettracer.desktop https://github.com/randifilan/packettracer_installe
 cp packettracer.desktop /usr/share/applications/
 apt -y install ./libpng.deb
 apt -y install ./libicu.deb
-
