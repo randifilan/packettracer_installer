@@ -8,6 +8,6 @@ tar -xvzf cpt.tar.gz -C /opt/pt
 wget -O libpng.deb http://ftp.br.debian.org/debian/pool/main/libp/libpng/libpng12-0_1.2.50-2+deb8u3_amd64.deb
 wget -O libicu.deb http://mirrors.kernel.org/ubuntu/pool/main/i/icu/libicu52_52.1-3ubuntu0.8_amd64.deb
 wget -O packettracer.desktop https://github.com/randifilan/packettracer_installer/blob/master/packettracer.desktop
-cp packettracer.desktop /usr/share/applications/
+cp packettracer.desktop /usr/share/applications
 apt -y install ./libpng.deb
 apt -y install ./libicu.deb
