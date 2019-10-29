@@ -9,7 +9,3 @@ wget -O libpng.deb http://ftp.br.debian.org/debian/pool/main/libp/libpng/libpng1
 wget -O libicu.deb http://mirrors.kernel.org/ubuntu/pool/main/i/icu/libicu52_52.1-3ubuntu0.8_amd64.deb
 apt -y install ./libpng.deb
 apt -y install ./libicu.deb
-
-
-
-
